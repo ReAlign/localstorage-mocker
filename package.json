@@ -1,0 +1,24 @@
+{
+  "name": "localstorage-mocker",
+  "version": "0.0.1",
+  "description": "mock localStorage for test tool as jest",
+  "main": "./lib/main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/localstorage-mocker.git"
+  },
+  "keywords": [
+    "localStorage",
+    "mock",
+    "jest",
+    "tools",
+    "node"
+  ],
+  "author": "ReAlign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReAlign/localstorage-mocker/issues"
+  },
+  "homepage": "https://github.com/ReAlign/localstorage-mocker#readme"
+}
