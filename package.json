@@ -1,6 +1,6 @@
 {
   "name": "localstorage-mocker",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "mock localStorage for test tool as jest",
   "main": "./lib/main.js",
   "scripts": {},
